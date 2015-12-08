@@ -1,0 +1,15 @@
+usbmidi configuration/\croutine.o: ..\Middlewares\Third_Party\FreeRTOS\Source\croutine.c
+usbmidi configuration/\croutine.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
+usbmidi configuration/\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+usbmidi configuration/\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+usbmidi configuration/\croutine.o: ../Inc/FreeRTOSConfig.h
+usbmidi configuration/\croutine.o: ../Inc/mxconstants.h
+usbmidi configuration/\croutine.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\projdefs.h
+usbmidi configuration/\croutine.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\portable.h
+usbmidi configuration/\croutine.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\deprecated_definitions.h
+usbmidi configuration/\croutine.o: ..\Middlewares\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h
+usbmidi configuration/\croutine.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\mpu_wrappers.h
+usbmidi configuration/\croutine.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\task.h
+usbmidi configuration/\croutine.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\list.h
+usbmidi configuration/\croutine.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\croutine.h
+usbmidi configuration/\croutine.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\list.h

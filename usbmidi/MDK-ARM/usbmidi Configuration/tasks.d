@@ -1,0 +1,17 @@
+usbmidi configuration/\tasks.o: ..\Middlewares\Third_Party\FreeRTOS\Source\tasks.c
+usbmidi configuration/\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+usbmidi configuration/\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+usbmidi configuration/\tasks.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
+usbmidi configuration/\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+usbmidi configuration/\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+usbmidi configuration/\tasks.o: ../Inc/FreeRTOSConfig.h
+usbmidi configuration/\tasks.o: ../Inc/mxconstants.h
+usbmidi configuration/\tasks.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\projdefs.h
+usbmidi configuration/\tasks.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\portable.h
+usbmidi configuration/\tasks.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\deprecated_definitions.h
+usbmidi configuration/\tasks.o: ..\Middlewares\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h
+usbmidi configuration/\tasks.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\mpu_wrappers.h
+usbmidi configuration/\tasks.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\task.h
+usbmidi configuration/\tasks.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\list.h
+usbmidi configuration/\tasks.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\timers.h
+usbmidi configuration/\tasks.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\StackMacros.h
